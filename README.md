@@ -5,4 +5,4 @@ Este es el de mineria de datos
 
 [Ejercicio Bases de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej1_BasesDatos_Equipo_3.pdf)
 
-[Ejercicios de Python](https://github.com/GallegosLuna/MineriadeDatos/blob/main/Ej_Python_1858788.ipynb)
+
