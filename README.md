@@ -7,4 +7,6 @@ Este es el de mineria de datos
 
 [Ejercicios de Python](https://github.com/GallegosLuna/MineriadeDatos/blob/main/Ej_Python_1858788.ipynb)
 
+[Ejercicio de limpieza de datos](https://github.com/marioalb127/MinDat2021/blob/main/EjercicioLimpiezaDeDatos_E3.ipynb?fbclid=IwAR2ZFbAlgmrh7dgkqEc2d3PD009Zq2inhvkE1bacA-TENth7dhSjpTKn2OE)
+
 
