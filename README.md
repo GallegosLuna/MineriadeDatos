@@ -10,3 +10,9 @@ Este es el de mineria de datos
 [Practica 1: limpieza de datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb?fbclid=IwAR3yvL4ZtdUTJlpOsXQBOi2W61aLuDoLfl-KrdT0i7Zc7mYqGaOa433B3OA)
 
 [Primer avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/Avance1_PIA_Equipo3.ipynb)
+
+#Fase2
+[Presentacion sobre regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Presentación_Regresión-Lineal_Equipo-3.pdf)
+[Ejemplo de regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresión-Lineal_Equipo-3.ipynb)
+[Mini examen de regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresión-Lineal_Equipo-3.pdf)
+
