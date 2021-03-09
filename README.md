@@ -13,6 +13,9 @@ Este es el de mineria de datos
 
 #Fase2
 [Presentacion sobre regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Presentación_Regresión-Lineal_Equipo-3.pdf)
+
 [Ejemplo de regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresión-Lineal_Equipo-3.ipynb)
+
 [Mini examen de regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresión-Lineal_Equipo-3.pdf)
+
 
