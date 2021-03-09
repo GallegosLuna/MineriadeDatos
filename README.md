@@ -11,7 +11,7 @@ Este es el de mineria de datos
 
 [Primer avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/Avance1_PIA_Equipo3.ipynb)
 
-#Fase2
+# Fase 2
 
 [Presentacion sobre regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Presentación_Regresión-Lineal_Equipo-3.pdf)
 
