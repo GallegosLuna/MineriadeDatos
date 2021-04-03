@@ -19,4 +19,10 @@ Este es el de mineria de datos
 
 [Mini examen de regresion lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresión-Lineal_Equipo-3.pdf)
 
+[Mapa Mental II](https://github.com/GallegosLuna/MineriadeDatos/blob/main/MapaMental_2_1858788.pdf)
+
+[Practica II: Visualizacion de datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualización_Equipo3.ipynb)
+
+[Segundo avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_G003_E3.ipynb)
+
 
