@@ -27,7 +27,8 @@ Este es el de mineria de datos
 
 [Segundo avance del PIA (corregido) ](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_003_E03.ipynb)
 
-#Fase 3
+# Fase 3
+
 [Avance del poster](https://github.com/marioalb127/MinDat2021/blob/main/AvancePoster_G003_E03.pdf)
 
 [PIA](https://github.com/marioalb127/MinDat2021/blob/main/PIA_G003_E03.ipynb)
