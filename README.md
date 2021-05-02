@@ -33,3 +33,5 @@ Este es el de mineria de datos
 
 [PIA](https://github.com/marioalb127/MinDat2021/blob/main/PIA_G003_E03.ipynb)
 
+[Poster](https://github.com/marioalb127/MinDat2021/blob/main/Poster_G003_E03.pdf?fbclid=IwAR2QwxNwcEEocVkJcrQkxmmnOQ6Y1KXAgBmIWhZ-eNaECCVtOoYPKo1c_mM)
+
